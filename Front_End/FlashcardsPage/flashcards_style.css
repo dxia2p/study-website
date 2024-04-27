@@ -1,0 +1,9 @@
+#flashcards-list{
+    padding:10px;
+    border-width: 3px;
+    border-radius: 20px;
+    border-color:black;
+    border-style: solid;
+    width: 75%;
+    margin:auto;
+}
